@@ -37,10 +37,10 @@ pip install geopy timezonefinder requests pytz Pillow
 
 ## Usage
 
-1. Run the `main.py` script.
+1. Run the `weather_app.py` script.
 
 ```
-python main.py
+python weather_app.py
 ```
 
 2. Enter the name of the city for which you want to check the weather in the input field.
